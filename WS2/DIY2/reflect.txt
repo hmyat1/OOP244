@@ -1,0 +1,7 @@
+This week, we focused on dynamic memory and how to allocate and free it when we're done with it. We also taught about function overloading. 
+
+This efficiently reads data from a CSV file including postal codes and populations, dynamically allocates memory to store this data, and allows the user to query this information depending on postal code prefixes.
+
+This was simply a review on those concepts for me, but it was much needed.  Dynamic memory is actually rather interesting. It helps in reducing the size of our programs by allocating only the RAM that is required.
+
+After completing this workshop, I've gained my grasp of major C++ concepts such as file I/O, dynamic memory allocation utilizing pointers, user input handling. This exercise boosted my C++ programming skills as well as my problem-solving abilities in a real setting.
