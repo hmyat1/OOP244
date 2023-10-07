@@ -1,0 +1,18 @@
+/***********************************************************************
+// OOP244 Workshop #3 DIY (part 2): tester program
+//
+// File  main.cpp
+// Version 1.0
+// Author   Cornel Barna, Fardad Soleimanloo
+// Description
+//
+// Revision History
+// -----------------------------------------------------------
+// Name  Hla Myint Myat                Date   31.9.23         Reason
+***********************************************************************/
+
+The focus of this workshop was on member function and privacy.
+We had been asked to name our class trains and provide it some objects with a type and value.
+They are not an object, but they are known for preserving data just for the created class.
+With that, we are asked to query the status of an object and update its state. This was done for both Part 1 and Part 2. 
+This workshop also took advantage of communication.
