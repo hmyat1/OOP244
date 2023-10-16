@@ -1,0 +1,8 @@
+This week, we learned about helper functions and member operators, as well as how to apply them and their various techniques, in these workshops.  
+In C++, helper functions make it easier to utilize and interact with classes. 
+Is also used to replicate or re-use the same functions in various places. 
+Some of these functions are average functions.
+They identify an overloaded function  for member operators, and it is marked or symbolized by a symbol.
+They can be arithmetic, logical, for insertion and extraction, and so forth. 
+I discovered that we cannot overload the scope resolution operator, the conditional operator, and so on in C++.
+And that they can be unary, binary, or ternary.
